@@ -1,14 +1,15 @@
 <h2> Hi! I'm Yago Tobio 👋 - I like to solve really annoying problems</h2>
 
-🚀 Passionate about Entrepreneurship, Product Development, Data Science & AI | 🎓 Computer Engineering & Business Analytics Graduate
+🚀 Passionate about Entrepreneurship, Product Development, Data Science & AI
+🎓 Computer Engineering & Business Analytics Graduate
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
-- 🔭 &nbsp; Currently working on: Getting my GitHub profile cleaned up and developing my portfolio!
-- 🌱 &nbsp; Now that I've graduated, I'm developing new projects and diving deeper into Data Science, AI, product development, and electronics.
-- 🎓 &nbsp; B.Eng in Computer Engineering & B.B.A in Business Analytics from Universidad Pontificia Comillas.
-- 💼 &nbsp; Previous roles: Sales Intelligence & Strategy @ Salesforce; Data Engineer @ VMLYR
-- 🏄‍♂️ &nbsp; When I'm not coding: Skateboarding, reading, travelling.
+- &nbsp; Currently working on: Getting my GitHub profile cleaned up and developing my portfolio!
+- &nbsp; Now that I've graduated, I'm developing new projects and diving deeper into Data Science, AI, product development, and electronics.
+- &nbsp; B.Eng in Computer Engineering & B.B.A in Business Analytics from Universidad Pontificia Comillas.
+- &nbsp; Previous roles: Sales Intelligence & Strategy @ Salesforce; Data Engineer @ VMLYR
+- &nbsp; When I'm not coding: Skateboarding, reading, travelling.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
